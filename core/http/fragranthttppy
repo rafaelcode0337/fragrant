@@ -1,0 +1,5 @@
+
+from globalshared.fragrantglobalshared import HttpAbstract
+
+class FragrantHttp(HttpAbstract):
+    pass
