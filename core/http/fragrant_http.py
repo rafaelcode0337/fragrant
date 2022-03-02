@@ -1,5 +1,5 @@
-from core.global_shared import HttpAbstract
+from modules import AbstractHttp
 
-class FragrantHttp(HttpAbstract):
+class FragrantHttp(AbstractHttp):
     pass
 
