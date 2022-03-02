@@ -15,6 +15,22 @@ Ou seja , traremos tudo que é bom, rápido e fácil para dentro do nosso ecosis
 
 Tentaremos trabalhar com um sistema de plugins para que você possa abstrair mais ainda para suas necessidades específicas, sem precisar interferir na modelagem e na estrutura arquitetônica do sofware, tornando a manutenção a custo Zero.
 
+## Faça muito com menos
+  Escreva pouquíssimos códigos para executar grandes tarefas.
+
+### Não se foque nos problemas complexos
+  A idéia é que você precise apenas se focar nas regras da sua aplicação, sem se preocupar com a Linguagem ou com complexidades de projetos como Arqtuitetura e modelagem, SOLID, Boas práticas etc.. Nós te entregamos tudo pronto.
+
+### Quanto menos souber, melhor.
+  Como todo bom framework a idéia não é ser um Cientista ou se focar em coisas complexas, mas sim apenas usar o que ele ja te entrega pronto, apenas configurando poucas coisas como Conexão com banco, Porta de serviço, Nome da tabela e um Leve e simples Escrita atraves de um SQlBuilder ou Raw, SQL Command Text .
+
+### Middlewares prontos e um sistema de criação dos seus próprios middlewares.
+  Você terá diversos middlewares prontinhos para resolver diversos problemas dentro da conexão HTTP , Rest, GraphQL e ODATA e middlewares como Validation, Autorization, Exceptions e vamos permitir que você crie seus proprios Middlewares com apenas 1 linha de comando.
+
+### Agradecimentos
+  Agradecemos a todos vocês por terem dedicado seu tempo precioso para essa leitura inicial do projeto Fragrant Framework for Python, onde teremos o prazer de programar em benefício de vocês para vocês. E sempre pensando naquele que não tem ampos conhecimentos em programação, tentando entregar tudo pronto e te manter feliz com a entrega de seus trabalhos, sejam eles para sua empresa ou para seus projetos pessoais.
+   
+
 Fragrant é uma iniciativa de Carlos A. Dias da Silva Filho e Rafael Fonseca.
  
 ## framework python para desenvolvimento backend
