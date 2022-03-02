@@ -4,7 +4,15 @@ class FragrantControllerAbstract(ABC):
     
     """Use o método para prover uma rota index inicial do controller"""
     def index():
-        pass    
+        pass  
+    
+    """Use o método para prover uma rota index inicial do controller"""
+    def route():
+        pass
+    
+    """Use o método para prover uma rota index inicial do controller"""
+    def view():
+        pass        
     
     """Use o método para prover uma rota de criação para o controller"""
     def create():
