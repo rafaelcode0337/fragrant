@@ -4,7 +4,7 @@
   aumentando a sua produtividade para o desenvolvimento de aplicações e soluções para o Empresariado ou pessoais.
   
   ## O que diferencia o Fragrant de outros frameworks?
-  O Fragrant foi pensado e inspirado no Nest Framework , Laravel e seu belíssimo ecosistema e Rad Borland Delphi, tentaremos trazer todas as facilidades e todos os padrões de projetos para entregar a você tudo pronto com simples linhas de comandos, e na filisofia RAD da Borland aual Embarcadero, o RAD significa Desenvolvimento Rápido de Aplicações, significa, quanto menos esforço , melhor, tudo será abstraído, até a RTTI do Python a Runtime Information Type.
+  O Fragrant foi pensado e inspirado no NestJS Framework , Laravel e seu belíssimo ecosistema e Rad Borland Delphi, tentaremos trazer todas as facilidades e todos os padrões de projetos para entregar a você tudo pronto com simples linhas de comandos, e na filisofia RAD da Borland aual Embarcadero, o RAD significa Desenvolvimento Rápido de Aplicações, significa, quanto menos esforço , melhor, tudo será abstraído, até a RTTI do Python a Runtime Information Type.
 
 O Framework entregará um sistema Server-Side , Assíncrono e síncrono dentro dos padrões universais do protocolo Http Web servindo documentos e binários rodando em uma porta HTTP de serviços, também entregaremos o Padrão REST e ODATA ( Open Data Protocol) e para fechar com chave de outro, uma comunicação tunelada, segura Utilizando SSL com WebSockets.
 
