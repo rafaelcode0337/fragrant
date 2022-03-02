@@ -27,6 +27,9 @@ Tentaremos trabalhar com um sistema de plugins para que você possa abstrair mai
 ### Middlewares prontos e um sistema de criação dos seus próprios middlewares.
   Você terá diversos middlewares prontinhos para resolver diversos problemas dentro da conexão HTTP , Rest, GraphQL e ODATA e middlewares como Validation, Autorization, Exceptions e vamos permitir que você crie seus proprios Middlewares com apenas 1 linha de comando.
 
+### Abstrações e Soluções para Front.
+ Contaremos com todas as idéias e ajuda das comunidades, pessoas interessadas em contruibuir com soluções para Server-Side , para resolver o Front-END, seja no Javascript, CSS e HTML, a príncipio pensaremos em React Library para resolver grande parte dos problemas do Front, mas queremos algo mais abstraído, mais simples e mais rápido, como Engine Templates, Componentes prontos , E Tentaremos fazer ao máximo o Framework trabalhar para você, se você tem vontade de contribuir mesmo que seja com uma idéia para o Front, estamos aqui para ouvir você e colocar a sua idéia em produção.!
+
 ### Agradecimentos
   Agradecemos a todos vocês por terem dedicado seu tempo precioso para essa leitura inicial do projeto Fragrant Framework for Python, onde teremos o prazer de programar em benefício de vocês para vocês. E sempre pensando naquele que não tem ampos conhecimentos em programação, tentando entregar tudo pronto e te manter feliz com a entrega de seus trabalhos, sejam eles para sua empresa ou para seus projetos pessoais.
    
