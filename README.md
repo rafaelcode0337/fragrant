@@ -10,7 +10,7 @@ O Framework entregará um sistema Server-Side , Assíncrono e síncrono dentro d
 
  O Sistema terá a capacidade de trabalhar com abstrações para resolver o Front-END, onde traremos um foco nas abstrações do Javascript e Templates HTML e resolvendo o CSS de uma forma rápida, fácil e sútil.
 
-Traremos o melhor dos padrões comportamentais como Notificadores e alguns dos padrões de projetos mais atuais, utilizados por exemplo em frameworks como Blazore .NetFramework,
+Traremos o melhor dos padrões comportamentais como Notificadores e alguns dos padrões de projetos mais atuais, utilizados por exemplo em frameworks como Blazor e .NetFramework,
 Ou seja , traremos tudo que é bom, rápido e fácil para dentro do nosso ecosistema.
 
 Tentaremos trabalhar com um sistema de plugins para que você possa abstrair mais ainda para suas necessidades específicas, sem precisar interferir na modelagem e na estrutura arquitetônica do sofware, tornando a manutenção a custo Zero.
