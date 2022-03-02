@@ -22,7 +22,7 @@ class FragrantControllerAbstract(ABC):
     def edit():
         pass
     
-    """Use o método para prover uma rota ´para deletar/destroir dados do banco de dados no controller"""
+    """Use o método para prover uma rota para deletar/destroir dados do banco de dados no controller"""
     def destroy():
         pass
     
