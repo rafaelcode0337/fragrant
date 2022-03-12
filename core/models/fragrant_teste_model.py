@@ -37,6 +37,7 @@ class Cliente(modelabstract):
      # Insântia única que respondem a um comportamento específico 
      # After Post é executado antes de acionar a Transação Post do DAO com o Banco de dados , 
      # Você pode definir ações para sua aplicação.
+
      Afterpost()
      
      Beforepost()
